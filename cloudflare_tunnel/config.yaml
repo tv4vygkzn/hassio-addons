@@ -2,7 +2,7 @@ name: Cloudflare Tunnel
 version: 1.6.0
 slug: cloudflare_tunnel
 description: Cloudflare Tunnel for Home Assistant
-url: https://github.com/w35l3y/hassio-addons/tree/main/cloudflare_tunnel
+url: https://github.com/vygints/hassio-addons/tree/main/cloudflare_tunnel
 ingress: false
 init: false
 apparmor: true
